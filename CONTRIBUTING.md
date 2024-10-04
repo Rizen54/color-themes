@@ -8,15 +8,17 @@ By contributing you agree to the [LICENSE](LICENSE) and [Code-Of-Conduct](Code-O
 * You're free to add your own color themes unless they're different from pre-existing ones. Anything too similar would not be allowed.
 * We only accept hex codes, rgb and hsl unless they're explicitly required in other formats in the config files of a specific app.
 * When adding a color to the palettes folder follow this format:
+
     `<Capitalised Simplest Shade Name>: hex rgb(r, g, b) hsl(what, e, ver)`
+  
     example:
     `Green: #98971a rgb(152, 151, 26) hsl(60, 71%, 35%)`
 
 * You can refer to the following tools for converting hex codes to rgb and hsl:
-    [HTML Color codes](https://htmlcolorcodes.com/hex-to-rgb)
+    * [HTML Color codes](https://htmlcolorcodes.com/hex-to-rgb)
 
-* Add an image of the color palette inside images/
-* **IMPORTANT:** Add the pic and the palette in 2 different commits 1 for each work.
+* ~~Add an image of the color palette inside images/~~
+* ~~**IMPORTANT:** Add the pic and the palette in 2 different commits 1 for each work.~~
 
 * The overall md page for palette colors has to follow the following format:
 
@@ -28,9 +30,6 @@ By contributing you agree to the [LICENSE](LICENSE) and [Code-Of-Conduct](Code-O
 
     ### Colors
     `<Capitalised Simplest Shade Name>: hex rgb(r, g, b) hsl(what, e, ver)` {look at the above given example or other themes files for reference}
-    
-    ### Image
-    <img url="images/imagename.png", alt="pic for colortheme", width="700"> {do not change the width}
     ```
 * For PRs use the following title convention: 
     (if more than one authors: use a team name or link or name of the major author)
@@ -39,3 +38,4 @@ By contributing you agree to the [LICENSE](LICENSE) and [Code-Of-Conduct](Code-O
     * When adding your own palette: `Added themename by author (my own)`
 
 * Search the repo thoroughly to avoid reposting themes that already exist in the repo.
+* For themes for other apps/utilities: Use the configuration format and extension for the specific theme and **provide a way to use it.**
