@@ -9,16 +9,16 @@ By contributing you agree to the [LICENSE](LICENSE) and [Code-Of-Conduct](Code-O
 * We only accept hex codes, rgb and hsl unless they're explicitly required in other formats in the config files of a specific app.
 * When adding a color to the palettes folder follow this format:
 
-    `<Simple Shade Name>: hex`
+    `<Simple Shade Name>: hex <br>`
 
     example:
-    `Green: #98971a`
+    `Green: #98971a <br>`
 
 * You can refer to the following tools for converting hex codes to rgb and hsl and vice versa:
     * [HTML Color codes](https://htmlcolorcodes.com/hex-to-rgb)
 
-* ~~Add an image of the color palette inside images/~~
-* ~~**IMPORTANT:** Add the pic and the palette in 2 different commits 1 for each work.~~
+* Add an image of the color palette inside images/
+* **IMPORTANT:** Add the pic and the palette in 2 different commits 1 for each work.
 
 * The overall md page for palette colors has to follow the following format:
 
