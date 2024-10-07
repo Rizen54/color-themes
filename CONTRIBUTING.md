@@ -29,7 +29,7 @@ By contributing you agree to the [LICENSE](LICENSE) and [Code-Of-Conduct](Code-O
     [Name of Creator(s) (if multiple separate with commas)](link-to-website-or-github-page)
 
     ### Colors
-    `<Simple Shade Name>: hex` {look at the above given example or other themes files for reference}
+    `<Simple Shade Name>: hex <br>` {look at the above given example or other themes files for reference}
 
     ### Sample Image
     <img src="images/themename.png" alt="themename pic" width="500">
