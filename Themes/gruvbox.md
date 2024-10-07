@@ -27,4 +27,4 @@ faded_aqua     = #427b58
 faded_orange   = #af3a03
 
 ### Sample Image
-<img src="images/gruvbox.png" alt="gruvbox pic" width="500">
+<img src="../images/gruvbox.png" alt="gruvbox pic" width="500">
