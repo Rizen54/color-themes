@@ -30,7 +30,18 @@ By contributing you agree to the [LICENSE](LICENSE) and [Code-Of-Conduct](Code-O
 
     ### Colors
     `<Simple Shade Name>: hex` {look at the above given example or other themes files for reference}
+
+    ### Sample Image
+    <img src="images/themename.png" alt="themename pic" width="500">
     ```
+
+* Generate a sample pic using [richcolors](https://github.com/Rizen54/richcolors)
+    * Use the command in the `color-themes/` folder: `richcolors themes/themename.md images/themename.png`
+    * Enter img width as `500`
+    * Enter img height as `250`
+
+* The md file should be named `themename.md` for eg: `gruvbox.md`
+* The pic file should be named `themename.png` for eg: `gruvbox.png`
 * For PRs use the following title convention: 
     (if more than one authors: use a team name or link or name of the major author)
     * When adding palettes: `Added themename by author`
