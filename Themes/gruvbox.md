@@ -1,7 +1,7 @@
 ## Gruvbox
 
 ### Credits
-[Morhetz)](https://github.com/morhetz/gruvbox)
+[Morhetz](https://github.com/morhetz/gruvbox)
 
 ### Colors
 bright Red     = #fb4934 <br>
