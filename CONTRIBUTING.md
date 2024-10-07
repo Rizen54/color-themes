@@ -9,12 +9,12 @@ By contributing you agree to the [LICENSE](LICENSE) and [Code-Of-Conduct](Code-O
 * We only accept hex codes, rgb and hsl unless they're explicitly required in other formats in the config files of a specific app.
 * When adding a color to the palettes folder follow this format:
 
-    `<Capitalised Simplest Shade Name>: hex rgb(r, g, b) hsl(what, e, ver)`
-  
-    example:
-    `Green: #98971a rgb(152, 151, 26) hsl(60, 71%, 35%)`
+    `<Simple Shade Name>: hex`
 
-* You can refer to the following tools for converting hex codes to rgb and hsl:
+    example:
+    `Green: #98971a`
+
+* You can refer to the following tools for converting hex codes to rgb and hsl and vice versa:
     * [HTML Color codes](https://htmlcolorcodes.com/hex-to-rgb)
 
 * ~~Add an image of the color palette inside images/~~
@@ -29,7 +29,7 @@ By contributing you agree to the [LICENSE](LICENSE) and [Code-Of-Conduct](Code-O
     [Name of Creator(s) (if multiple separate with commas)](link-to-website-or-github-page)
 
     ### Colors
-    `<Capitalised Simplest Shade Name>: hex rgb(r, g, b) hsl(what, e, ver)` {look at the above given example or other themes files for reference}
+    `<Simple Shade Name>: hex` {look at the above given example or other themes files for reference}
     ```
 * For PRs use the following title convention: 
     (if more than one authors: use a team name or link or name of the major author)
